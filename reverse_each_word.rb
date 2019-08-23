@@ -1,9 +1,11 @@
 def reverse_each_word (string)
-  ("Hello there, and how are you?").each 
+  array =["Hello there, and how are you?"]
+  array.each 
 
 end 
 
 def reverse_each_word (string)
-  ("Hello there, and how are you?").collect 
+  array = ["Hello there, and how are you?"]
+  array.collect 
   
 end 
