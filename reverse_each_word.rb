@@ -1,9 +1,9 @@
 def reverse_each_word (string)
-  "Hello there, and how are you?" do .each 
-  memo
+  "Hello there, and how are you?" .each 
+
 end 
 
 def reverse_each_word (string)
-  "Hello there, and how are you?" do .collect 
-  memo
+  "Hello there, and how are you?" .collect 
+  
 end 
